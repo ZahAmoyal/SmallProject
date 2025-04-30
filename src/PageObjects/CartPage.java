@@ -8,13 +8,11 @@ public class CartPage extends BasePage {
     // =============================
     // Attributes (private locators)
     // =============================
-    // Locator for the checkout button on the Cart page
     private By checkoutButton = By.id("checkout");
 
     // =============================
     // Constructor
     // =============================
-    // Constructor that passes the WebDriver instance to the BasePage constructor
     public CartPage(WebDriver driver) {
         super(driver);
     }
@@ -22,7 +20,13 @@ public class CartPage extends BasePage {
     // =============================
     // Methods
     // =============================
-    // Method to click the checkout button, initiating the checkout process
+    public boolean isCartPageLoaded() {
+        try {
+            return driver.findElement(By.xpath("//span[text()='Your Cart']")).isDisplayed();
+        } catch (Exception e) {
+            return false;
+        }
+    }
     public void clickCheckout(){
         click(checkoutButton);
     }

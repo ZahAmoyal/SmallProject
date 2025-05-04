@@ -9,7 +9,7 @@ import java.util.List;
 public class InventoryPage extends BasePage {
 
     // =============================
-    // Attributes (private locators for page elements)
+    // Attributes
     // =============================
     private By addToCartButtons = By.cssSelector(".inventory_item button.btn_inventory");
     private By cartIcon = By.cssSelector(".shopping_cart_link");

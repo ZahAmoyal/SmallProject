@@ -6,7 +6,7 @@ import org.openqa.selenium.WebDriver;
 public class PaymentPage extends BasePage {
 
     // ====================================
-    // Attributes (private locators)
+    // Attribute
     // ====================================
     private By confirmationMessage = By.cssSelector(".complete-header");
 

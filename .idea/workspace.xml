@@ -3,21 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="db931245-c1b3-439f-90ff-01b19fab0c73" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Flows/FullFlow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Flows/FullFlow.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PageObjects/BasePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PageObjects/BasePage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PageObjects/CartPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PageObjects/CartPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PageObjects/CheckOutPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PageObjects/CheckOutPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PageObjects/CompletePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PageObjects/CompletePage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/PageObjects/InventoryPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PageObjects/InventoryPage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/PageObjects/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PageObjects/LoginPage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/PageObjects/PaymentPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PageObjects/PaymentPage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Tests/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tests/BaseTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tests/CartPageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tests/CartPageTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tests/CheckOutPageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tests/CheckOutPageTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tests/CompletePageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tests/CompletePageTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tests/InventoryPageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tests/InventoryPageTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tests/LoginPageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tests/LoginPageTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tests/PaymentPageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tests/PaymentPageTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +53,7 @@
       <recent name="C:\Users\AsusX514\IdeaProjects\SmallProject\src\Data" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.LoginPageTest.LoginSwagLabs1">
     <configuration name="LoginPageTest.LoginSwagLabs1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="SmallProject" />
       <extension name="coverage">

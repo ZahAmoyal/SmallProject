@@ -6,7 +6,7 @@ import org.openqa.selenium.WebDriver;
 public class LoginPage extends BasePage {
 
     // =============================
-    // Attributes (private locators)
+    // Attributes
     // =============================
     private By usernameField = By.id("user-name");
     private By passwordField = By.id("password");
